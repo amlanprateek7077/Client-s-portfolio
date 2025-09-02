@@ -50,14 +50,14 @@ const Contact = () => {
             {/* Social Links */}
             <div className="flex flex-row hover:cursor-pointer justify-center items-center p-2 gap-6">
               <Link
-                href="https://www.linkedin.com/in/sayantan-kabri-9907b7238/"
+                href="https://www.linkedin.com/in/axita-dash-63b246366/"
                 className="mr-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
                 target="_blank"
               >
                 <LinkedInIcon />
               </Link>
               <Link
-                href="https://github.com/Kabri108"
+                href="https://github.com/Axitadash"
                 className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
                 target="_blank"
               >

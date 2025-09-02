@@ -33,13 +33,13 @@ const Navbar = () => {
       <nav>
         <CustomLink href="/" title="Home" className="ml-4 md:hidden" />
         <CustomLink href="/about" title="About" className="mx-4" />
-        <CustomLink href="/projects" title="Projects" className="mx-4" />
+       <CustomLink href="/project" title="Projects" className="mx-4" />
         <CustomLink href="/contact" title="Contact" className="mx-4" />
       </nav>
       <div>
         <nav className="flex flex-row  hover:cursor-pointer items-center md:hidden  ">
           <Link
-            href="https://www.linkedin.com/in/sayantan-kabri-9907b7238/"
+            href="https://www.linkedin.com/in/axita-dash-63b246366/"
             className="mr-2  transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
             target="_blank"
           >
@@ -53,7 +53,7 @@ const Navbar = () => {
             <MailIcon />{' '}
           </Link>
           <Link
-            href="https://github.com/Kabri108"
+            href="https://github.com/Axitadash"
             className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
           >
             <IconGithubnav />{' '}

@@ -49,7 +49,7 @@ const projects = () => {
   return (
     <>
       <Head>
-        <title> SKbari | project page</title>
+        <title> AD | project page</title>
         <meta content="project" />
       </Head>
       <TransitionEfffect />
