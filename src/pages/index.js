@@ -48,7 +48,7 @@ export default function Home() {
               </article>
               <div className="flex items-center md:justify-center mt-2 md:self-center ld:self-center">
                 <Link
-                  href="/images/skresume.pdf"
+                  href="/images/Axita.pdf"
                   target={'_blank'}
                   className="flex items-center bg-Charcoal text-white p-2 px-4 text-lg font-semibold rounded-lg hover:bg-transparent border-2 hover:border-Charcoal mr-2 md:p-2 md:px-2 md:text-base shadow-lg"
                   download={true}
